@@ -1,0 +1,15 @@
+D:/Sharif/Term4/DSD/Emtiazi/Codes/TimeHandler.v {1 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Emtiazi/Codes/TimeHandler.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module TimeHandler
+
+Top level modules:
+	TimeHandler
+
+} {} {}} D:/Sharif/Term4/DSD/Emtiazi/Codes/Parking_TB.v {1 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Emtiazi/Codes/Parking_TB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Parking_TB
+
+Top level modules:
+	Parking_TB
+
+} {} {}}

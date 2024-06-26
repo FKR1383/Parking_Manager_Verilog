@@ -1,0 +1,102 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Sharif/Term4/DSD/Practice4/Eshgham/Codes
+T_opt
+!s110 1719430560
+V9n4h<[QVd5U`kQ6Yh[?8:2
+Z1 04 10 4 work Parking_TB fast 0
+=1-5811223d2d4a-667c6da0-2b8-4b54
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+T_opt1
+!s110 1719427553
+V]m23>c`RmE1Yk8`zdZPZ>1
+R1
+=1-5811223d2d4a-667c61e1-260-5ec8
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+R0
+vParking
+Z4 !s110 1719430552
+!i10b 1
+!s100 IUkSbTkMEcFzj3=@jY9Q_2
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4cn[MP6^O5?Liof<4iB;Q1
+Z6 dD:/Sharif/Term4/DSD/Emtiazi/Codes
+w1719430544
+8D:/Sharif/Term4/DSD/Emtiazi/Codes/Parking.v
+FD:/Sharif/Term4/DSD/Emtiazi/Codes/Parking.v
+!i122 75
+L0 1 103
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1719430552.000000
+!s107 D:/Sharif/Term4/DSD/Emtiazi/Codes/Parking.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Emtiazi/Codes/Parking.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@parking
+vParking_TB
+!s110 1719430553
+!i10b 1
+!s100 [BOD<TAE48O<c9NS561Ib0
+R5
+Ib7ZVSdlOP3k20PXSYKPGf2
+R6
+w1719424799
+8D:/Sharif/Term4/DSD/Emtiazi/Codes/Parking_TB.v
+FD:/Sharif/Term4/DSD/Emtiazi/Codes/Parking_TB.v
+!i122 77
+L0 1 78
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Sharif/Term4/DSD/Emtiazi/Codes/Parking_TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Emtiazi/Codes/Parking_TB.v|
+!i113 0
+R10
+R2
+n@parking_@t@b
+vTimeHandler
+R4
+!i10b 1
+!s100 dCa>Ge67eIX[HFII4V5WW0
+R5
+IFKLB1hB7HUKmX4eE:n3dc3
+R6
+w1719427509
+8D:/Sharif/Term4/DSD/Emtiazi/Codes/TimeHandler.v
+FD:/Sharif/Term4/DSD/Emtiazi/Codes/TimeHandler.v
+!i122 76
+L0 1 18
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Sharif/Term4/DSD/Emtiazi/Codes/TimeHandler.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Emtiazi/Codes/TimeHandler.v|
+!i113 0
+R10
+R2
+n@time@handler
