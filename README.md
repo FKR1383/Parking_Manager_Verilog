@@ -5,7 +5,6 @@ My Project is a Parking Manager circuit that is capable of managing enter and ex
 
 
 ## Tools
-In this section, you should mention the hardware or simulators utilized in your project.
 - Modelsim and Verilog HDL
 - Quartus
 
